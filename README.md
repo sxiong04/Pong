@@ -5,7 +5,7 @@ link: https://www.youtube.com/playlist?list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2.
 
 ## Explanation
 Players control an in-game paddle by moving it vertically across the left or right side of the screen. They can complete
-against another player controlling a second paddle on the opposing side. Players ise the paddles to hit a ball back and
+against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and
 forth. The goal is for each play to each eleven points before the opponent; points are earned when one fails to return
 the ball to the other.
 
