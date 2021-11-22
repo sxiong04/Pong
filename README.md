@@ -33,3 +33,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Other Basic Games
+[Snake](https://github.com/sxiong04/Snake)
